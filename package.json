@@ -1,0 +1,22 @@
+{
+  "name": "n2l",
+  "version": "1.0.0",
+  "description": "números a letras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isra/n2l.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "isra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/isra/n2l/issues"
+  },
+  "homepage": "https://github.com/isra/n2l#readme"
+}
